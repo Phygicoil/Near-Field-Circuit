@@ -10,7 +10,7 @@
 - **Web Application**: A dedicated web application supports Universal Profile integration, direct NFT transactions, and secure communications for postage.
 - **NFC Functionality**:
   - **Pre-Activation**: Coins appear in an unactivated state on the buyer's Universal Profile upon purchase.
-  - **Post-Scan Activation**: Scanning the coin activates the Physical Bound Token (PBT), revealing detailed information about the coin’s material value, provenance, and ownership.
+  - **Post-Scan Activation**: Scanning the coin activates the Physical Bound Token (PBT), revealing detailed information about the coin’s realtime material value, provenance, ownership along with direct communication with the artist's studio.
 
 ## Installation
 
